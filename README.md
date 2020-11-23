@@ -13,4 +13,4 @@ Skills: HTML / CSS/REACT / JS /Adobe-Xd/PhotoShop
 
 
 
-![shivani's github stats](https://github-readme-stats.vercel.app/api?username=Sshivani-12)
+![shivani's github status](https://github-readme-stats.vercel.app/api?username=Sshivani-12)
