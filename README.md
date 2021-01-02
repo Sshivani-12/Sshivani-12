@@ -8,7 +8,8 @@ Exploring new skills.
 
 Skills: HTML / CSS/REACT / JS /Adobe-Xd/PhotoShop
 
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON NAME].svg" />
 
 
 
