@@ -5,11 +5,11 @@
 
 
 
-⚡ Fun fact **Interested in Frontend Development and UI/UX designing!!**
+⚡ **Interested in Frontend Development and UI/UX designing!!**
 
-⚡ Fun fact **Started with Open Source contribution!!**
+⚡ **Started with Open Source contribution!!**
 
-⚡ Fun fact **Exploring  new skills!!**
+⚡ **Exploring  new skills!!**
 
 
 <h3 align="left">Connect with me:</h3>
