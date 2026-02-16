@@ -5,11 +5,7 @@
 
 
 
-⚡ **Interested in Frontend Development and UI/UX designing!!**
-
-⚡ **Started with Open Source contribution!!**
-
-⚡ **Exploring  new skills!!**
+⚡ **Results-oriented Java Developer with 3+ years of experience in building scalable, high-performance applications. Skilled in Java, Spring Boot, TIBCO EBX, REST APIs, Microservices, MySQL, and PostgreSQL. Experienced across the full SDLC and Agile environments, with a strong focus on clean code, problem-solving, and collaborative delivery. Passionate about continuous learning and process improvement.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshivani-12&label=Profile%20views&color=0e75b6&style=flat" alt="sshivani-12" /> </p>
 
