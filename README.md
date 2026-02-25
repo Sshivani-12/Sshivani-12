@@ -10,8 +10,8 @@
 ---
 
 ### 🔧 Tech Stack
-Java 8/11 • Spring Boot • REST APIs • JPA/Hibernate  
-MySQL • PostgreSQL • Solace • CI/CD • Git  
+Java 8/11 • Spring Boot • REST APIs • JPA/Hibernate • Microservices
+MySQL • PostgreSQL • Kafka • CI/CD • Git  
 
 ---
 
